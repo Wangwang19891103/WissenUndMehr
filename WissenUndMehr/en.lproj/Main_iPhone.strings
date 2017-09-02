@@ -1,0 +1,78 @@
+
+/* Class = "IBUILabel"; text = "Überschrift"; ObjectID = "0P9-v8-l2L"; */
+"0P9-v8-l2L.text" = "Überschrift";
+
+/* Class = "IBUIViewController"; title = "VoucherViewController"; ObjectID = "9UP-fg-Cat"; */
+"9UP-fg-Cat.title" = "VoucherViewController";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "BVf-gz-Nnn"; */
+"BVf-gz-Nnn.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Wissen & Mehr"; ObjectID = "DIk-Wg-Wsq"; */
+"DIk-Wg-Wsq.text" = "Wissen & Mehr";
+
+/* Class = "IBUINavigationItem"; title = "Schülerhilfe"; ObjectID = "E4Z-Py-4yd"; */
+"E4Z-Py-4yd.title" = "Schülerhilfe";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "EFR-is-mPf"; */
+"EFR-is-mPf.text" = "Label";
+
+/* Class = "IBUILabel"; text = "0800 44 100 22 48 WÄHLEN"; ObjectID = "FLS-N2-3rA"; */
+"FLS-N2-3rA.text" = "0800 44 100 22 48 WÄHLEN";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "Fn5-CB-c3A"; */
+"Fn5-CB-c3A.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "PWh-iR-Z9l"; */
+"PWh-iR-Z9l.text" = "Label";
+
+/* Class = "IBUIBarButtonItem"; title = "Zurück"; ObjectID = "QJV-9e-plZ"; */
+"QJV-9e-plZ.title" = "Zurück";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "SOE-M4-rKW"; */
+"SOE-M4-rKW.text" = "Label";
+
+/* Class = "IBUIViewController"; title = "Pocketratgeber"; ObjectID = "WTQ-4q-50u"; */
+"WTQ-4q-50u.title" = "Pocketratgeber";
+
+/* Class = "IBUIButton"; normalTitle = "JETZT DOWNLOADEN"; ObjectID = "XV4-7V-8Zu"; */
+"XV4-7V-8Zu.normalTitle" = "JETZT DOWNLOADEN";
+
+/* Class = "IBUILabel"; text = "Ich bin ein Platzhalter und muss noch ersetzt werden."; ObjectID = "YgM-ub-dnr"; */
+"YgM-ub-dnr.text" = "Ich bin ein Platzhalter und muss noch ersetzt werden.";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "a3a-HH-yzH"; */
+"a3a-HH-yzH.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "bUR-jd-5dq"; */
+"bUR-jd-5dq.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "cFo-0f-pt7"; */
+"cFo-0f-pt7.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "fZE-YL-akI"; */
+"fZE-YL-akI.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "gVj-PV-Gri"; */
+"gVj-PV-Gri.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Some Text"; ObjectID = "gd6-Qw-DOB"; */
+"gd6-Qw-DOB.text" = "Some Text";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "moa-jQ-zcB"; */
+"moa-jQ-zcB.text" = "Label";
+
+/* Class = "IBUIViewController"; title = "ActionWebViewViewController"; ObjectID = "pVr-Xv-muD"; */
+"pVr-Xv-muD.title" = "ActionWebViewViewController";
+
+/* Class = "IBUIViewController"; title = "Open PDF ViewController"; ObjectID = "rdF-Ey-CsL"; */
+"rdF-Ey-CsL.title" = "Open PDF ViewController";
+
+/* Class = "IBUILabel"; text = "KOSTENLOSE BERATUNG"; ObjectID = "s4v-Ex-U6g"; */
+"s4v-Ex-U6g.text" = "KOSTENLOSE BERATUNG";
+
+/* Class = "IBUINavigationItem"; title = "Pocketratgeber"; ObjectID = "srx-VX-obZ"; */
+"srx-VX-obZ.title" = "Pocketratgeber";
+
+/* Class = "IBUIViewController"; title = "MainViewController"; ObjectID = "vXZ-lx-hvc"; */
+"vXZ-lx-hvc.title" = "MainViewController";

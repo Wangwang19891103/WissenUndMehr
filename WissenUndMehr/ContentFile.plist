@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Navigation_00</key>
+	<dict>
+		<key>uniqueId</key>
+		<string>0</string>
+		<key>orderId</key>
+		<integer>0</integer>
+		<key>color</key>
+		<string></string>
+		<key>lang</key>
+		<string>de</string>
+		<key>subtitle</key>
+		<string></string>
+		<key>title</key>
+		<string>Fachwissen kompakt</string>
+		<key>children</key>
+		<dict>
+			<key>Navigation_00</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>1</string>
+				<key>orderId</key>
+				<integer>0</integer>
+				<key>title</key>
+				<string>Mathe</string>
+				<key>subtitle</key>
+				<string>Die wichtigsten Formeln</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>159.0f,193.0f,47.0f,1.0f</string>
+				<key>document</key>
+				<dict>
+					<key>fileName</key>
+					<string>SH_Pocketratgeber_Mathe.pdf</string>
+					<key>name</key>
+					<string>Pocketratgeber Mathe</string>
+				</dict>
+			</dict>
+			<key>Navigation_01</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>2</string>
+				<key>orderId</key>
+				<integer>1</integer>
+				<key>title</key>
+				<string>Englisch</string>
+				<key>subtitle</key>
+				<string>Die wesentlichen Grammatik-Regeln</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>185.0f,46.0f,87.0f,1.0f</string>
+				<key>document</key>
+				<dict>
+					<key>name</key>
+					<string>Pocketratgeber Englisch</string>
+					<key>fileName</key>
+					<string>SH_Pocketratgeber_English.pdf</string>
+				</dict>
+			</dict>
+			<key>Navigation_02</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>3</string>
+				<key>orderId</key>
+				<integer>2</integer>
+				<key>title</key>
+				<string>Deutsch</string>
+				<key>subtitle</key>
+				<string>Die wichtigsten Grundregeln zu Rechtschreibung und Zeichensetzung</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>174.0f,26.0f,75.0f,1.0f</string>
+				<key>document</key>
+				<dict>
+					<key>name</key>
+					<string>Pocketratgeber Deutsch</string>
+					<key>fileName</key>
+					<string>SH_Pocketratgeber_Deutsch.pdf</string>
+				</dict>
+			</dict>
+			<key>Navigation_03</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>4</string>
+				<key>orderId</key>
+				<integer>3</integer>
+				<key>title</key>
+				<string>Französisch</string>
+				<key>subtitle</key>
+				<string>Die wichtigsten unregelmäßigen Verben</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>124.0f,66.0f,136.0f,1.0f</string>
+				<key>document</key>
+				<dict>
+					<key>name</key>
+					<string>Pocketratgeber Französisch</string>
+					<key>fileName</key>
+					<string>SH_Pocketratgeber_Franzoesisch.pdf</string>
+				</dict>
+			</dict>
+			<key>Navigation_04</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>5</string>
+				<key>orderId</key>
+				<integer>4</integer>
+				<key>title</key>
+				<string>Latein</string>
+				<key>subtitle</key>
+				<string>Die wichtigsten Deklinationen und Konjugationen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>0.0f,200.0f,255.0f,1.0f</string>
+				<key>document</key>
+				<dict>
+					<key>fileName</key>
+					<string>SH_Pocketratgeber_Latein.pdf</string>
+					<key>name</key>
+					<string>Pocketratgeber Latein</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>Navigation_01</key>
+	<dict>
+		<key>uniqueId</key>
+		<string>6</string>
+		<key>orderId</key>
+		<integer>1</integer>
+		<key>color</key>
+		<string></string>
+		<key>lang</key>
+		<string>de</string>
+		<key>subtitle</key>
+		<string></string>
+		<key>title</key>
+		<string>Tipps für Schüler</string>
+		<key>children</key>
+		<dict>
+			<key>Navigation_00</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>7</string>
+				<key>orderId</key>
+				<integer>0</integer>
+				<key>title</key>
+				<string>Fit für die Prüfung</string>
+				<key>subtitle</key>
+				<string>Jetzt öffnen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>240.0f,132.0f,42.0f,1.0f</string>
+				<key>document</key>
+				<dict>
+					<key>name</key>
+					<string>Fit für die Prüfung</string>
+					<key>fileName</key>
+					<string>SH_Schuelerratgeber_FitFuerDiePruefung.pdf</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>pruefung_thumb</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_01</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>8</string>
+				<key>orderId</key>
+				<integer>1</integer>
+				<key>title</key>
+				<string>Bewerbungs-tipps</string>
+				<key>subtitle</key>
+				<string>Jetzt öffnen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>240.0f,132.0f,42.0f,1.0f</string>
+				<key>document</key>
+				<dict>
+					<key>name</key>
+					<string>Bewerbungs-tipps</string>
+					<key>fileName</key>
+					<string>SH_Schuelerratgeber_Bewerbungstipps.pdf</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>bewerunbgstipps_thumb</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>Navigation_02</key>
+	<dict>
+		<key>uniqueId</key>
+		<string>9</string>
+		<key>orderId</key>
+		<integer>2</integer>
+		<key>color</key>
+		<string></string>
+		<key>lang</key>
+		<string>de</string>
+		<key>subtitle</key>
+		<string></string>
+		<key>title</key>
+		<string>Tipps für Eltern</string>
+		<key>children</key>
+		<dict>
+			<key>Navigation_00</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>10</string>
+				<key>orderId</key>
+				<integer>0</integer>
+				<key>title</key>
+				<string>Lern- und Motivationstipps</string>
+				<key>subtitle</key>
+				<string>Jetzt öffnen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>159.0f,193.0f,47.0f,1.0f</string>
+				<key>document</key>
+				<dict>
+					<key>name</key>
+					<string>Lern- und Motivationstipps</string>
+					<key>fileName</key>
+					<string>SH_Elternratgeber_Lerntipps.pdf</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>tipps_thumb</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_01</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>11</string>
+				<key>orderId</key>
+				<integer>1</integer>
+				<key>title</key>
+				<string>Tipps für stressfreie Hausaufgaben</string>
+				<key>subtitle</key>
+				<string>Jetzt öffnen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>159.0f,193.0f,47.0f,1.0f</string>
+				<key>document</key>
+				<dict>
+					<key>name</key>
+					<string>Tipps für stressfreie Hausaufgaben</string>
+					<key>fileName</key>
+					<string>SH_Elternratgeber_Hausaufgaben.pdf</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>stressfrei_thumb</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_02</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>12</string>
+				<key>orderId</key>
+				<integer>2</integer>
+				<key>title</key>
+				<string>Schulangst, Schulstress &amp; Co</string>
+				<key>subtitle</key>
+				<string>Jetzt öffnen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>159.0f,193.0f,47.0f,1.0f</string>
+				<key>document</key>
+				<dict>
+					<key>name</key>
+					<string>Schulangst, Schulstress &amp; Co</string>
+					<key>fileName</key>
+					<string>SH_Elternratgeber_Schulangst.pdf</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>schulangst_thumb</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_03</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>13</string>
+				<key>orderId</key>
+				<integer>3</integer>
+				<key>title</key>
+				<string>Erfolgreich durch die Grundschulzeit</string>
+				<key>subtitle</key>
+				<string>Jetzt öffnen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>159.0f,193.0f,47.0f,1.0f</string>
+				<key>document</key>
+				<dict>
+					<key>name</key>
+					<string>Erfolgreich durch die Grundschulzeit</string>
+					<key>fileName</key>
+					<string>SH_Elternratgeber_Grundschulzeit.pdf</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>grundschulzeit_thumb</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>Navigation_03</key>
+	<dict>
+		<key>uniqueId</key>
+		<string>14</string>
+		<key>orderId</key>
+		<integer>3</integer>
+		<key>color</key>
+		<string></string>
+		<key>lang</key>
+		<string>de</string>
+		<key>subtitle</key>
+		<string></string>
+		<key>title</key>
+		<string>Vokabeltrainer Englisch</string>
+		<key>children</key>
+		<dict>
+			<key>Navigation_00</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>15</string>
+				<key>orderId</key>
+				<integer>0</integer>
+				<key>title</key>
+				<string>Vokabeltrainer Englisch</string>
+				<key>subtitle</key>
+				<string>Jetzt im App Store</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>link</key>
+				<dict>
+					<key>name</key>
+					<string>AppStoreIdentifier</string>
+					<key>fileURL</key>
+					<string>731882415</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>english_thumb</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>Navigation_04</key>
+	<dict>
+		<key>uniqueId</key>
+		<string>16</string>
+		<key>orderId</key>
+		<integer>4</integer>
+		<key>color</key>
+		<string></string>
+		<key>lang</key>
+		<string>de</string>
+		<key>subtitle</key>
+		<string></string>
+		<key>title</key>
+		<string>Vokabeltrainer Französisch</string>
+		<key>children</key>
+		<dict>
+			<key>Navigation_00</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>17</string>
+				<key>orderId</key>
+				<integer>1</integer>
+				<key>title</key>
+				<string>Vokabeltrainer Französisch</string>
+				<key>subtitle</key>
+				<string>Jetzt im App Store</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>link</key>
+				<dict>
+					<key>name</key>
+					<string>AppStoreIdentifier</string>
+					<key>fileURL</key>
+					<string>731968244</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>franz_thumb</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>Navigation_05</key>
+	<dict>
+		<key>uniqueId</key>
+		<string>18</string>
+		<key>orderId</key>
+		<integer>5</integer>
+		<key>color</key>
+		<string></string>
+		<key>lang</key>
+		<string>de</string>
+		<key>subtitle</key>
+		<string></string>
+		<key>title</key>
+		<string>Schülerhilfe Videos</string>
+		<key>children</key>
+		<dict>
+			<key>Navigation_00</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>19</string>
+				<key>orderId</key>
+				<integer>1</integer>
+				<key>title</key>
+				<string>Schülerhilfe Spot</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID04</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/ZeV6VJP65M4</string>
+					<key>title</key>
+					<string>Schülerhilfe TV Spot</string>
+					<key>summary</key>
+					<string>Eine 5 auf dem Zeugnis? Kein Problem: Die Nachhilfe bei der Schülerhilfe macht nicht nur Spaß, sie sorgt auch für bessere Noten.</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>tvspot_thumb</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_01</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>20</string>
+				<key>orderId</key>
+				<integer>2</integer>
+				<key>title</key>
+				<string>Schülerhilfe - das Original. Seit 1974</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID01</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/U-ExDx-TDiI</string>
+					<key>title</key>
+					<string>Schülerhilfe – Das Original. Seit 1974.</string>
+					<key>summary</key>
+					<string>Individuelle Betreuung für Lernen mit Spaß, qualifizierte Nachhilfelehrer, flexible Betreuung -- die Schülerhilfe ist der größte Nachhilfeanbieter in Deutschland und in Österreich.</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>dasoriginal_thumb</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_02</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>21</string>
+				<key>orderId</key>
+				<integer>3</integer>
+				<key>title</key>
+				<string>Grundschule - Schülerhilfe Junior</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID02</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/zalllrbn2UM</string>
+					<key>summary</key>
+					<string>Das Grundschulangebot der Schülerhilfe ist speziell auf die Bedürfnisse jüngerer Schüler zugeschnitten. In der Grundschule ist es wichtig, von Anfang an Lernlücken zu vermeiden und die wichtigsten Grundlagen im Rechnen, beim Schreiben und beim Lesen zu trainieren. Bei uns ist Ihr Kind gut aufgehoben!</string>
+					<key>title</key>
+					<string>Grundschule – Schülerhilfe JUNIOR</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>grundschule_thumb</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_03</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>22</string>
+				<key>orderId</key>
+				<integer>4</integer>
+				<key>title</key>
+				<string>Schülerhilfe - Nachhilfelehrer des Jahres</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID03</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/86JtkFnrigY</string>
+					<key>title</key>
+					<string>Schülerhilfe – Nachhilfelehrer des Jahres</string>
+					<key>summary</key>
+					<string>Der Schülerhilfe-Nachhilfelehrer des Jahres stellt sich vor – er ist einer von unseren rund 10.000 Nachhilfelehrern und hilft dabei, mit Spaß und Know-how Wissen weiterzugeben.</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>nachhilfe_thumb</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_04</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>29</string>
+				<key>orderId</key>
+				<integer>10</integer>
+				<key>title</key>
+				<string>Lernvideo - Mathe - Der Dreisatz</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID05</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/NIXQP89E-P0</string>
+					<key>title</key>
+					<string>Lernvideo - Mathe - Der Dreisatz</string>
+					<key>summary</key>
+					<string>Kaum eine andere Hilfestellung aus der Mathematik braucht man im Alltag häufiger als den Dreisatz – also gut aufgepasst! Hunderte andere Lösungen und Hilfestellungen zu deinem Unterrichtsstoff findest du in unserem LernCenter.</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>der_dreisatz</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_05</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>30</string>
+				<key>orderId</key>
+				<integer>0</integer>
+				<key>title</key>
+				<string>Die Schülerhilfe stellt sich vor</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID06</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/WTi2g_JrXVU</string>
+					<key>title</key>
+					<string>Die Schülerhilfe stellt sich vor</string>
+					<key>summary</key>
+					<string>Individuelle Betreuung für Lernen mit Spaß, qualifizierte Nachhilfelehrer, flexible Betreuung -- die Schülerhilfe ist der größte Nachhilfeanbieter in Deutschland und in Österreich.</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>die_schuelerhilfe_stellt_sich_vor</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_06</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>31</string>
+				<key>orderId</key>
+				<integer>5</integer>
+				<key>title</key>
+				<string>LernCenter - Online-Direkthilfe</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID07</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/wr4wxRvfBP4</string>
+					<key>title</key>
+					<string>LernCenter - Online-Direkthilfe</string>
+					<key>summary</key>
+					<string>Bei manchen Problemen und Fragen muss es einfach schnell gehen – genau in diesen Situationen kannst du unsere Online-Direkthilfe nutzen. In dem Video zeigen wir dir, wie unkompliziert und schnell wir dir mit einer Lösung helfen.</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>online_direkthilfe</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_07</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>32</string>
+				<key>orderId</key>
+				<integer>6</integer>
+				<key>title</key>
+				<string>LernCenter - Online-Bibliothek</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID08</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/iAyshbh-FGQ</string>
+					<key>title</key>
+					<string>Schülerhilfe LernCenter - Online-Bibliothek</string>
+					<key>summary</key>
+					<string>Du hast eine Frage zu deinem Schulstoff? Wir zeigen dir, wie du in unserer Online-Bibliothek ganz schnell Antworten, Lösungen und Arbeitsblätter zu deiner Frage findest.</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>online_bibliethek</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_08</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>33</string>
+				<key>orderId</key>
+				<integer>7</integer>
+				<key>title</key>
+				<string>LernCenter - Dein digitaler Lernbegleiter</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID09</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/mIXJcEEY6aM</string>
+					<key>title</key>
+					<string>Schülerhilfe LernCenter - Dein digitaler Lernbegleiter</string>
+					<key>summary</key>
+					<string>Unser Schülerhilfe LernCenter bietet dir viele verschiedene Möglichkeiten, schneller und effektiver zu lernen. Im Video erklären wir dir, wie du unterwegs lernen kannst, wie du am schnellsten ein bestimmtes Thema findest oder wie wir dir bei ganz bestimmten Fragen helfen. Egal, was du für eine Frage hast, in unserem LernCenter finden wir gemeinsam eine Lösung. Melde dich einfach an und probiere den kostenlosen Account für 14 Tage aus – Viel Spaß!</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>digitaler_lernbegleiter</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_09</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>34</string>
+				<key>orderId</key>
+				<integer>8</integer>
+				<key>title</key>
+				<string>LernCenter - Live-Foren</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID10</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/Uv0lgBZKBiM</string>
+					<key>title</key>
+					<string>Schülerhilfe LernCenter - Live-Foren</string>
+					<key>summary</key>
+					<string>In der Gruppe lernen und dann noch von zu Hause aus – mit unserem Live Forum kein Problem mehr. In dem Video erklären wir, wie du dich bei unserem Live-Forum anmelden kannst, wie der Ablauf ist und warum es so praktisch ist.</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>live_foren</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_10</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>35</string>
+				<key>orderId</key>
+				<integer>9</integer>
+				<key>title</key>
+				<string>LernCenter - Vokabeltrainer</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID11</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/Q6I3ZCmCrDo</string>
+					<key>title</key>
+					<string>Schülerhilfe LernCenter - Vokabeltrainer</string>
+					<key>summary</key>
+					<string>Wenn du eine Sprache beherrschen willst (und nicht sie dich), ist der sichere Umgang mit den Vokabeln deine wichtigste Grundlage. Wir erklären dir in dem Video, wie du mit unserer App von überall aus lernen kannst. Außerdem zeigen wir dir, wie du dein Lernpotenzial mit Phase6 noch besser ausschöpfen kannst.</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>vokabeltrainer</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_11</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>36</string>
+				<key>orderId</key>
+				<integer>11</integer>
+				<key>title</key>
+				<string>Lernvideo - Mathe - Winkel zwischen Vektoren</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID12</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/BEWEcirjR24</string>
+					<key>title</key>
+					<string>Schülerhilfe Lernvideo // Mathe // Winkel zwischen Vektoren</string>
+					<key>summary</key>
+					<string>In diesem Video erklären wir dir, wie du den Winkel zwischen Vektoren berechnest. Alles Weitere zu Skalaren, Beträgen und zu vielen weiteren Themen in Mathe und anderen Fächern findest du in unserem LernCenter.</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>winkel_zwischen_vektoren</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_12</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>37</string>
+				<key>orderId</key>
+				<integer>12</integer>
+				<key>title</key>
+				<string>Lernvideo - Mathe - Pythagoras Grundlagen</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID13</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/a9Dqu2KVyww</string>
+					<key>title</key>
+					<string>Schülerhilfe Lernvideo // Mathe // Pythagoras Grundlagen</string>
+					<key>summary</key>
+					<string>Der Satz des Pythagoras ist ein wahrer Klassiker in der Mathematik – es lohnt sich also, ihn zu beherrschen.
+Viele andere Videos rund um Mathe und zu anderen Schulfächern findest du übrigens in unserem LernCenter.</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>pythagoras</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_13</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>38</string>
+				<key>orderId</key>
+				<integer>13</integer>
+				<key>title</key>
+				<string>Lernvideo - Mathe - Erste binomische Formel</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID14</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/BZY3-zN9GkY</string>
+					<key>title</key>
+					<string>Schülerhilfe Lernvideo // Mathe // Erste binomische Formel</string>
+					<key>summary</key>
+					<string>Einige von euch haben vielleicht schon mal von den binomischen Formeln gehört, obwohl ihr sie noch gar nicht in der Schule hattet. Anderen geht es so, dass sie den Begriff noch kennen, die Formeln aber nicht mehr erklären können.
+Zum Glück erklären wir nochmal, wie die erste binomische Formel funktioniert – die anderen binomischen Formeln und hunderte weitere Videos findest du in unserem LernCenter.</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>binomische_formel</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_14</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>39</string>
+				<key>orderId</key>
+				<integer>14</integer>
+				<key>title</key>
+				<string>Lernvideo - Mathe - Gleichungen lösen</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID15</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/9XCtUxOwCKI</string>
+					<key>title</key>
+					<string>Schülerhilfe Lernvideo // Mathe // Gleichungen lösen</string>
+					<key>summary</key>
+					<string>Hast du Probleme beim Rechnen mit Buchstaben? In diesem Lernvideo erklären wir dir, wie du Gleichungen mit Variablen löst. Viel Erfolg!</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>gleichungen_loesen</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+			<key>Navigation_15</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>40</string>
+				<key>orderId</key>
+				<integer>15</integer>
+				<key>title</key>
+				<string>Lernvideo - Mathe - Grundrechenarten bei Brüchen</string>
+				<key>subtitle</key>
+				<string>Jetzt ansehen</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>video</key>
+				<dict>
+					<key>uniqueId</key>
+					<string>VID16</string>
+					<key>name</key>
+					<string>Video</string>
+					<key>url</key>
+					<string>http://www.youtube.com/embed/9ujG6Egtxd4</string>
+					<key>title</key>
+					<string>Schülerhilfe Lernvideo // Mathe // Grundrechenarten bei Brüchen</string>
+					<key>summary</key>
+					<string>In diesem Schülerhilfe Lernvideo erklären wir dir die vier Grundrechenarten bei Brüchen. Genauere Beschreibungen und mehr Beispiele findest du in unserem LernCenter.</string>
+				</dict>
+				<key>image</key>
+				<dict>
+					<key>fileName</key>
+					<string>grundrechenarten_bei_bruechen</string>
+					<key>name</key>
+					<string>FromBundle</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>Navigation_06</key>
+	<dict>
+		<key>uniqueId</key>
+		<string>28</string>
+		<key>orderId</key>
+		<integer>6</integer>
+		<key>color</key>
+		<string></string>
+		<key>lang</key>
+		<string>de</string>
+		<key>subtitle</key>
+		<string></string>
+		<key>title</key>
+		<string>Nachhilfe vor Ort finden</string>
+	</dict>
+	<key>Navigation_07</key>
+	<dict>
+		<key>uniqueId</key>
+		<string>23</string>
+		<key>orderId</key>
+		<integer>7</integer>
+		<key>color</key>
+		<string></string>
+		<key>lang</key>
+		<string>de</string>
+		<key>subtitle</key>
+		<string></string>
+		<key>title</key>
+		<string>Lerngutschein</string>
+		<key>children</key>
+		<dict>
+			<key>Navigation_00</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>24</string>
+				<key>orderId</key>
+				<integer>0</integer>
+				<key>title</key>
+				<string>Lerngutschein Downloaden</string>
+				<key>subtitle</key>
+				<string></string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>document</key>
+				<dict>
+					<key>fileName</key>
+					<string>SH_Lerngutschein_App.pdf</string>
+					<key>name</key>
+					<string>Lerngutschein</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>Navigation_08</key>
+	<dict>
+		<key>uniqueId</key>
+		<string>25</string>
+		<key>orderId</key>
+		<integer>8</integer>
+		<key>color</key>
+		<string></string>
+		<key>lang</key>
+		<string>de</string>
+		<key>subtitle</key>
+		<string></string>
+		<key>title</key>
+		<string>Kostenlose Beratung</string>
+		<key>children</key>
+		<dict>
+			<key>Navigation_00</key>
+			<dict>
+				<key>uniqueId</key>
+				<string>26</string>
+				<key>orderId</key>
+				<integer>1</integer>
+				<key>title</key>
+				<string>KOSTENLOSE BERATUNG</string>
+				<key>subtitle</key>
+				<string>0800 44 100 22 48 WÄHLEN</string>
+				<key>lang</key>
+				<string>de</string>
+				<key>color</key>
+				<string>9.0f,80.0f,155.0f,1.0f</string>
+				<key>link</key>
+				<dict>
+					<key>name</key>
+					<string>CallNumber</string>
+					<key>fileURL</key>
+					<string>0800 44 100 2248</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>Navigation_09</key>
+	<dict>
+		<key>uniqueId</key>
+		<string>27</string>
+		<key>orderId</key>
+		<integer>9</integer>
+		<key>color</key>
+		<string></string>
+		<key>lang</key>
+		<string>de</string>
+		<key>subtitle</key>
+		<string></string>
+		<key>title</key>
+		<string>Über uns/Impressum</string>
+		<key>document</key>
+		<dict>
+			<key>fileName</key>
+			<string>ueber_uns_impressum.html</string>
+			<key>name</key>
+			<string>Über uns/Impressum</string>
+		</dict>
+	</dict>
+	<key>Version</key>
+	<string>1.4</string>
+</dict>
+</plist>

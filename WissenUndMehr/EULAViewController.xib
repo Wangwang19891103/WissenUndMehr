@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7531" systemVersion="14A389" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7520"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="EULAViewController">
+            <connections>
+                <outlet property="btnAccept" destination="dDv-iA-fAm" id="kNM-9K-Mim"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+                <outlet property="webView" destination="Dt4-cZ-bQa" id="GEs-gn-AnN"/>
+                <outlet property="webViewBottomSpaceConstraint" destination="mka-Ye-bhV" id="Z8I-Pd-dB7"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="536"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hinweis: Wenn Du nicht einverstanden bist, beende die App durch Betätigen des Home-Button." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8XB-mU-aFF">
+                    <rect key="frame" x="5" y="494" width="585" height="42"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="42" id="S5u-fb-wKv"/>
+                        <constraint firstAttribute="height" constant="42" id="TxA-S1-cc1"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="13"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="S5u-fb-wKv"/>
+                        </mask>
+                    </variation>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FoN-M3-QBF">
+                    <rect key="frame" x="0.0" y="493" width="600" height="2"/>
+                    <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="2" id="SbL-MC-hqV"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dDv-iA-fAm">
+                    <rect key="frame" x="226" y="456" width="149" height="39"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="149" id="GPc-Tx-maq"/>
+                        <constraint firstAttribute="height" constant="39" id="N1i-cj-jcI"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                    <state key="normal" title="I accept">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="btnAcceptDidTap:" destination="-1" eventType="touchUpInside" id="Ndc-tg-COA"/>
+                    </connections>
+                </button>
+                <webView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Dt4-cZ-bQa">
+                    <rect key="frame" x="0.0" y="0.0" width="600" height="456"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="delegate" destination="i5M-Pr-FkT" id="cxY-Zh-1Uv"/>
+                    </connections>
+                </webView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="8XB-mU-aFF" secondAttribute="bottom" id="1lK-cz-wgI"/>
+                <constraint firstAttribute="trailing" secondItem="dDv-iA-fAm" secondAttribute="trailing" constant="13" id="32Z-TN-GRB"/>
+                <constraint firstItem="FoN-M3-QBF" firstAttribute="top" secondItem="dDv-iA-fAm" secondAttribute="bottom" constant="-2" id="4pd-wo-8X2"/>
+                <constraint firstAttribute="trailing" secondItem="FoN-M3-QBF" secondAttribute="trailing" id="6CR-gu-CMX"/>
+                <constraint firstAttribute="bottom" secondItem="8XB-mU-aFF" secondAttribute="bottom" id="6o9-nd-EqW"/>
+                <constraint firstItem="8XB-mU-aFF" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="5" id="C1E-fS-lgQ"/>
+                <constraint firstAttribute="bottom" secondItem="FoN-M3-QBF" secondAttribute="bottom" constant="41" id="KMc-ca-zWe"/>
+                <constraint firstAttribute="centerX" secondItem="dDv-iA-fAm" secondAttribute="centerX" id="QJd-Sq-XUb"/>
+                <constraint firstItem="dDv-iA-fAm" firstAttribute="top" secondItem="Dt4-cZ-bQa" secondAttribute="bottom" constant="8" id="T3g-bj-QDs"/>
+                <constraint firstItem="dDv-iA-fAm" firstAttribute="top" secondItem="Dt4-cZ-bQa" secondAttribute="bottom" constant="8" id="UiO-WC-Gxx"/>
+                <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="dDv-iA-fAm" secondAttribute="bottom" constant="41" id="Ymk-vj-gZt"/>
+                <constraint firstAttribute="trailing" secondItem="Dt4-cZ-bQa" secondAttribute="trailing" id="dR3-Kr-iV0"/>
+                <constraint firstAttribute="trailing" secondItem="8XB-mU-aFF" secondAttribute="trailing" constant="10" id="eXh-cS-EdH"/>
+                <constraint firstAttribute="bottom" secondItem="dDv-iA-fAm" secondAttribute="bottom" constant="8" id="gyG-A3-eWP"/>
+                <constraint firstItem="8XB-mU-aFF" firstAttribute="top" secondItem="Dt4-cZ-bQa" secondAttribute="bottom" constant="38" id="hky-xb-Fen"/>
+                <constraint firstItem="8XB-mU-aFF" firstAttribute="top" secondItem="dDv-iA-fAm" secondAttribute="bottom" constant="8" id="jt2-qS-C7v"/>
+                <constraint firstItem="Dt4-cZ-bQa" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="mhJ-pF-LO3"/>
+                <constraint firstAttribute="bottom" secondItem="Dt4-cZ-bQa" secondAttribute="bottom" constant="80" id="mka-Ye-bhV"/>
+                <constraint firstItem="Dt4-cZ-bQa" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="s4m-AM-knZ"/>
+                <constraint firstAttribute="bottom" secondItem="dDv-iA-fAm" secondAttribute="bottom" constant="8" id="sAH-C6-Ejl"/>
+                <constraint firstItem="FoN-M3-QBF" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="tVS-6J-Z12"/>
+                <constraint firstItem="dDv-iA-fAm" firstAttribute="top" secondItem="Dt4-cZ-bQa" secondAttribute="bottom" id="u4S-47-b3Q"/>
+            </constraints>
+            <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" translucent="NO" prompted="NO"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="KMc-ca-zWe"/>
+                    <exclude reference="1lK-cz-wgI"/>
+                    <exclude reference="hky-xb-Fen"/>
+                    <exclude reference="jt2-qS-C7v"/>
+                    <exclude reference="32Z-TN-GRB"/>
+                    <exclude reference="T3g-bj-QDs"/>
+                    <exclude reference="UiO-WC-Gxx"/>
+                    <exclude reference="Ymk-vj-gZt"/>
+                    <exclude reference="gyG-A3-eWP"/>
+                    <exclude reference="sAH-C6-Ejl"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="470" y="281"/>
+        </view>
+    </objects>
+</document>
